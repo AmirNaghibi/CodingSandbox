@@ -2,7 +2,6 @@
 .gradle/
 build/
 gradle-app.setting
-!gradle-wrapper.jar
 .gradletasknamecache
 
 # IDE
@@ -16,6 +15,7 @@ gradle-app.setting
 # Compiled files
 *.class
 *.jar
+!gradle/wrapper/gradle-wrapper.jar
 *.war
 *.ear
 bin/
