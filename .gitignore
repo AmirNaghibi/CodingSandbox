@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+bin/
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db 
